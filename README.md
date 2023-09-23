@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dianperalta
 - 🔭 Actualmente soy egresada de la carrera de Ingenieria en Computacion y soy estudiante del Programa Becalas BeLEAD.
-- 🌱 Actualmente estoy aprendiendo Finanzas, Python, Css, HTML, JavaScrip asi como diseño grafico.
+- 🌱 Actualmente estoy aprendiendo Finanzas, Python, Css, HTML, JavaScrip y diseño grafico.
 - 💞️ Busco colaborar en Tecnolochicas y en proyectos de innovacion y tecnologia
 - 📫 Como contactarme:dianaperaltaclavijo@gmail.com/ Manejar en Facebook:@diana peralta
 - 😄 Pronombres: Ella / Ella
