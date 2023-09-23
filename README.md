@@ -24,10 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Markdown
-# Encabezado 1
-## Encabezdo 2
-# Estilos de texto
-**palabra en negrita**
 
-*palabra en negrita*
