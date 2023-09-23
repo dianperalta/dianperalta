@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @dianperalta
-- 👀 I’m interested in  ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔭 Actualmente soy egresada de la carrera de Ingenieria en Computacion y soy estudiante del Programa Becalas BeLEAD.
+- 🌱 Actualmente estoy aprendiendo Finanzas, Python, Css, HTML, JavaScrip asi como diseño grafico.
+- 💞️ Busco colaborar en Tecnolochicas y en proyectos de innovacion y tecnologia
+- 📫 Como contactarme:dianaperaltaclavijo@gmail.com/ Manejar en Facebook:@diana peralta
+- 😄 Pronombres: Ella / Ella
+- ⚡ Dato curioso: soy muy distraida.
 
 <!---
 dianperalta/dianperalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
